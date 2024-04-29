@@ -1,0 +1,8 @@
+flask==3.0.2
+numpy==1.26.4
+keras==2.15.0
+opencv-python==4.9.0.80
+tensorflow==2.15.0
+werkzeug==2.0.2
+itsdangerous==2.0.1
+gunicorn==21.2.0

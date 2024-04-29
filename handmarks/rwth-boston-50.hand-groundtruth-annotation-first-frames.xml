@@ -1,0 +1,2896 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<points>
+  <video name="give1/give1-d-*-0.png">
+    <frame number="0">
+      <point n="0" x="205" y="239"/>
+      <point n="1" x="145" y="94"/>
+    </frame>
+  </video>
+  <video name="box__/box__-a-*-0.png">
+    <frame number="0">
+      <point n="0" x="268" y="168"/>
+      <point n="1" x="174" y="146"/>
+    </frame>
+  </video>
+  <video name="ix1__/ix1__-h-*-0.png">
+    <frame number="0">
+      <point n="0" x="162" y="177"/>
+      <point n="1" x="136" y="115"/>
+    </frame>
+  </video>
+  <video name="like_/like_-b-*-0.png">
+    <frame number="0">
+      <point n="0" x="201" y="236"/>
+      <point n="1" x="156" y="139"/>
+    </frame>
+  </video>
+  <video name="ariv1/ariv1-c-*-0.png">
+    <frame number="0">
+      <point n="0" x="208" y="198"/>
+      <point n="1" x="136" y="91"/>
+    </frame>
+  </video>
+  <video name="futur/futur-d-*-0.png">
+    <frame number="0">
+      <point n="0" x="157" y="177"/>
+      <point n="1" x="135" y="95"/>
+    </frame>
+  </video>
+  <video name="car1_/car1_-a-*-0.png">
+    <frame number="0">
+      <point n="0" x="205" y="211"/>
+      <point n="1" x="124" y="137"/>
+    </frame>
+  </video>
+  <video name="give4/give4-c-*-0.png">
+    <frame number="0">
+      <point n="0" x="210" y="237"/>
+      <point n="1" x="181" y="86"/>
+    </frame>
+  </video>
+  <video name="go2__/go2__-b-*-0.png">
+    <frame number="0">
+      <point n="0" x="205" y="102"/>
+      <point n="1" x="136" y="77"/>
+    </frame>
+  </video>
+  <video name="car__/car__-j-*-0.png">
+    <frame number="0">
+      <point n="0" x="186" y="118"/>
+      <point n="1" x="123" y="92"/>
+    </frame>
+  </video>
+  <video name="ix1__/ix1__-a-*-0.png">
+    <frame number="0">
+      <point n="0" x="211" y="239"/>
+      <point n="1" x="145" y="156"/>
+    </frame>
+  </video>
+  <video name="bdown/bdown-c-*-0.png">
+    <frame number="0">
+      <point n="0" x="189" y="92"/>
+      <point n="1" x="143" y="94"/>
+    </frame>
+  </video>
+  <video name="visi2/visi2-e-*-0.png">
+    <frame number="0">
+      <point n="0" x="210" y="165"/>
+      <point n="1" x="142" y="89"/>
+    </frame>
+  </video>
+  <video name="go1__/go1__-e-*-0.png">
+    <frame number="0">
+      <point n="0" x="203" y="155"/>
+      <point n="1" x="143" y="131"/>
+    </frame>
+  </video>
+  <video name="futu1/futu1-b-*-0.png">
+    <frame number="0">
+      <point n="0" x="184" y="124"/>
+      <point n="1" x="127" y="82"/>
+    </frame>
+  </video>
+  <video name="love_/love_-a-*-0.png">
+    <frame number="0">
+      <point n="0" x="187" y="187"/>
+      <point n="1" x="169" y="151"/>
+    </frame>
+  </video>
+  <video name="love1/love1-a-*-0.png">
+    <frame number="0">
+      <point n="0" x="192" y="210"/>
+      <point n="1" x="162" y="142"/>
+    </frame>
+  </video>
+  <video name="who1_/who1_-a-*-0.png">
+    <frame number="0">
+      <point n="0" x="210" y="195"/>
+      <point n="1" x="174" y="121"/>
+    </frame>
+  </video>
+  <video name="ixfal/ixfal-a-*-0.png">
+    <frame number="0">
+      <point n="0" x="181" y="204"/>
+      <point n="1" x="174" y="65"/>
+    </frame>
+  </video>
+  <video name="ystdy/stdy-k-*-0.png">
+    <frame number="0">
+      <point n="0" x="209" y="238"/>
+      <point n="1" x="158" y="86"/>
+    </frame>
+  </video>
+  <video name="visit/visit-d-*-0.png">
+    <frame number="0">
+      <point n="0" x="179" y="186"/>
+      <point n="1" x="150" y="103"/>
+    </frame>
+  </video>
+  <video name="go1__/go1__-c-*-0.png">
+    <frame number="0">
+      <point n="0" x="203" y="153"/>
+      <point n="1" x="141" y="125"/>
+    </frame>
+  </video>
+  <video name="book1/book1-f-*-0.png">
+    <frame number="0">
+      <point n="0" x="181" y="114"/>
+      <point n="1" x="148" y="108"/>
+    </frame>
+  </video>
+  <video name="new__/new__-b-*-0.png">
+    <frame number="0">
+      <point n="0" x="167" y="146"/>
+      <point n="1" x="138" y="81"/>
+    </frame>
+  </video>
+  <video name="visi2/visi2-d-*-0.png">
+    <frame number="0">
+      <point n="0" x="185" y="161"/>
+      <point n="1" x="144" y="82"/>
+    </frame>
+  </video>
+  <video name="car__/car__-c-*-0.png">
+    <frame number="0">
+      <point n="0" x="212" y="96"/>
+      <point n="1" x="132" y="88"/>
+    </frame>
+  </video>
+  <video name="give4/give4-e-*-0.png">
+    <frame number="0">
+      <point n="0" x="209" y="238"/>
+      <point n="1" x="141" y="87"/>
+    </frame>
+  </video>
+  <video name="house/house-e-*-0.png">
+    <frame number="0">
+      <point n="0" x="181" y="116"/>
+      <point n="1" x="145" y="113"/>
+    </frame>
+  </video>
+  <video name="woman/woman-f-*-0.png">
+    <frame number="0">
+      <point n="0" x="184" y="211"/>
+      <point n="1" x="165" y="86"/>
+    </frame>
+  </video>
+  <video name="love_/love_-b-*-0.png">
+    <frame number="0">
+      <point n="0" x="179" y="183"/>
+      <point n="1" x="162" y="142"/>
+    </frame>
+  </video>
+  <video name="ix2__/ix2__-i-*-0.png">
+    <frame number="0">
+      <point n="0" x="187" y="200"/>
+      <point n="1" x="168" y="101"/>
+    </frame>
+  </video>
+  <video name="what2/what2-d-*-0.png">
+    <frame number="0">
+      <point n="0" x="173" y="163"/>
+      <point n="1" x="131" y="95"/>
+    </frame>
+  </video>
+  <video name="give4/give4-d-*-0.png">
+    <frame number="0">
+      <point n="0" x="206" y="236"/>
+      <point n="1" x="185" y="83"/>
+    </frame>
+  </video>
+  <video name="love_/love_-f-*-0.png">
+    <frame number="0">
+      <point n="0" x="203" y="237"/>
+      <point n="1" x="172" y="136"/>
+    </frame>
+  </video>
+  <video name="vtape/vtape-c-*-0.png">
+    <frame number="0">
+      <point n="0" x="184" y="125"/>
+      <point n="1" x="146" y="106"/>
+    </frame>
+  </video>
+  <video name="finsh/finsh-d-*-0.png">
+    <frame number="0">
+      <point n="0" x="188" y="157"/>
+      <point n="1" x="142" y="82"/>
+    </frame>
+  </video>
+  <video name="can__/can__-h-*-0.png">
+    <frame number="0">
+      <point n="0" x="181" y="125"/>
+      <point n="1" x="139" y="87"/>
+    </frame>
+  </video>
+  <video name="poss_/poss_-c-*-0.png">
+    <frame number="0">
+      <point n="0" x="147" y="180"/>
+      <point n="1" x="145" y="85"/>
+    </frame>
+  </video>
+  <video name="leg__/leg__-b-*-0.png">
+    <frame number="0">
+      <point n="0" x="146" y="179"/>
+      <point n="1" x="141" y="86"/>
+    </frame>
+  </video>
+  <video name="1x1pi/1x1pi-a-*-0.png">
+    <frame number="0">
+      <point n="0" x="187" y="204"/>
+      <point n="1" x="150" y="104"/>
+    </frame>
+  </video>
+  <video name="go___/go___-a-*-0.png">
+    <frame number="0">
+      <point n="0" x="208" y="236"/>
+      <point n="1" x="134" y="105"/>
+    </frame>
+  </video>
+  <video name="know_/know_-b-*-0.png">
+    <frame number="0">
+      <point n="0" x="202" y="239"/>
+      <point n="1" x="136" y="89"/>
+    </frame>
+  </video>
+  <video name="box__/box__-e-*-0.png">
+    <frame number="0">
+      <point n="0" x="282" y="153"/>
+      <point n="1" x="210" y="115"/>
+    </frame>
+  </video>
+  <video name="who1_/who1_-b-*-0.png">
+    <frame number="0">
+      <point n="0" x="206" y="236"/>
+      <point n="1" x="171" y="102"/>
+    </frame>
+  </video>
+  <video name="give5/give5-c-*-0.png">
+    <frame number="0">
+      <point n="0" x="205" y="135"/>
+      <point n="1" x="155" y="112"/>
+    </frame>
+  </video>
+  <video name="buy__/buy__-m-*-0.png">
+    <frame number="0">
+      <point n="0" x="183" y="156"/>
+      <point n="1" x="162" y="108"/>
+    </frame>
+  </video>
+  <video name="box__/box__-g-*-0.png">
+    <frame number="0">
+      <point n="0" x="270" y="196"/>
+      <point n="1" x="157" y="140"/>
+    </frame>
+  </video>
+  <video name="ixfa1/ixfa1-c-*-0.png">
+    <frame number="0">
+      <point n="0" x="192" y="192"/>
+      <point n="1" x="139" y="75"/>
+    </frame>
+  </video>
+  <video name="have_/have_-e-*-0.png">
+    <frame number="0">
+      <point n="0" x="196" y="109"/>
+      <point n="1" x="125" y="107"/>
+    </frame>
+  </video>
+  <video name="ix1__/ix1__-g-*-0.png">
+    <frame number="0">
+      <point n="0" x="181" y="187"/>
+      <point n="1" x="141" y="91"/>
+    </frame>
+  </video>
+  <video name="finsh/finsh-a-*-0.png">
+    <frame number="0">
+      <point n="0" x="191" y="160"/>
+      <point n="1" x="135" y="95"/>
+    </frame>
+  </video>
+  <video name="have_/have_-f-*-0.png">
+    <frame number="0">
+      <point n="0" x="205" y="133"/>
+      <point n="1" x="130" y="120"/>
+    </frame>
+  </video>
+  <video name="woman/woman-g-*-0.png">
+    <frame number="0">
+      <point n="0" x="209" y="240"/>
+      <point n="1" x="164" y="81"/>
+    </frame>
+  </video>
+  <video name="ixfar/ixfar-d-*-0.png">
+    <frame number="0">
+      <point n="0" x="181" y="203"/>
+      <point n="1" x="142" y="67"/>
+    </frame>
+  </video>
+  <video name="new__/new__-d-*-0.png">
+    <frame number="0">
+      <point n="0" x="173" y="151"/>
+      <point n="1" x="117" y="90"/>
+    </frame>
+  </video>
+  <video name="give3/give3-b-*-0.png">
+    <frame number="0">
+      <point n="0" x="184" y="202"/>
+      <point n="1" x="149" y="87"/>
+    </frame>
+  </video>
+  <video name="book3/book3-b-*-0.png">
+    <frame number="0">
+      <point n="0" x="204" y="166"/>
+      <point n="1" x="170" y="146"/>
+    </frame>
+  </video>
+  <video name="visit/visit-h-*-0.png">
+    <frame number="0">
+      <point n="0" x="208" y="158"/>
+      <point n="1" x="151" y="83"/>
+    </frame>
+  </video>
+  <video name="visit/visit-i-*-0.png">
+    <frame number="0">
+      <point n="0" x="215" y="165"/>
+      <point n="1" x="145" y="84"/>
+    </frame>
+  </video>
+  <video name="smone/smone-e-*-0.png">
+    <frame number="0">
+      <point n="0" x="206" y="239"/>
+      <point n="1" x="138" y="77"/>
+    </frame>
+  </video>
+  <video name="futur/futur-f-*-0.png">
+    <frame number="0">
+      <point n="0" x="181" y="205"/>
+      <point n="1" x="146" y="89"/>
+    </frame>
+  </video>
+  <video name="buy__/buy__-b-*-0.png">
+    <frame number="0">
+      <point n="0" x="195" y="148"/>
+      <point n="1" x="166" y="109"/>
+    </frame>
+  </video>
+  <video name="futue/futue-b-*-0.png">
+    <frame number="0">
+      <point n="0" x="183" y="137"/>
+      <point n="1" x="119" y="104"/>
+    </frame>
+  </video>
+  <video name="leave/leave-c-*-0.png">
+    <frame number="0">
+      <point n="0" x="199" y="235"/>
+      <point n="1" x="137" y="100"/>
+    </frame>
+  </video>
+  <video name="car__/car__-e-*-0.png">
+    <frame number="0">
+      <point n="0" x="184" y="110"/>
+      <point n="1" x="116" y="111"/>
+    </frame>
+  </video>
+  <video name="new__/new__-f-*-0.png">
+    <frame number="0">
+      <point n="0" x="183" y="145"/>
+      <point n="1" x="142" y="88"/>
+    </frame>
+  </video>
+  <video name="ixfar/ixfar-b-*-0.png">
+    <frame number="0">
+      <point n="0" x="181" y="205"/>
+      <point n="1" x="108" y="46"/>
+    </frame>
+  </video>
+  <video name="prefr/prefr-c-*-0.png">
+    <frame number="0">
+      <point n="0" x="208" y="237"/>
+      <point n="1" x="157" y="101"/>
+    </frame>
+  </video>
+  <video name="ix1__/ix1__-d-*-0.png">
+    <frame number="0">
+      <point n="0" x="212" y="237"/>
+      <point n="1" x="137" y="134"/>
+    </frame>
+  </video>
+  <video name="shud2/shud2-b-*-0.png">
+    <frame number="0">
+      <point n="0" x="155" y="184"/>
+      <point n="1" x="132" y="95"/>
+    </frame>
+  </video>
+  <video name="who__/who__-c-*-0.png">
+    <frame number="0">
+      <point n="0" x="163" y="177"/>
+      <point n="1" x="147" y="94"/>
+    </frame>
+  </video>
+  <video name="what3/what3-f-*-0.png">
+    <frame number="0">
+      <point n="0" x="234" y="188"/>
+      <point n="1" x="144" y="130"/>
+    </frame>
+  </video>
+  <video name="who__/who__-l-*-0.png">
+    <frame number="0">
+      <point n="0" x="154" y="185"/>
+      <point n="1" x="151" y="80"/>
+    </frame>
+  </video>
+  <video name="visi2/visi2-a-*-0.png">
+    <frame number="0">
+      <point n="0" x="226" y="167"/>
+      <point n="1" x="156" y="136"/>
+    </frame>
+  </video>
+  <video name="love2/love2-f-*-0.png">
+    <frame number="0">
+      <point n="0" x="205" y="212"/>
+      <point n="1" x="181" y="148"/>
+    </frame>
+  </video>
+  <video name="can__/can__-o-*-0.png">
+    <frame number="0">
+      <point n="0" x="195" y="168"/>
+      <point n="1" x="128" y="122"/>
+    </frame>
+  </video>
+  <video name="car__/car__-f-*-0.png">
+    <frame number="0">
+      <point n="0" x="184" y="106"/>
+      <point n="1" x="107" y="110"/>
+    </frame>
+  </video>
+  <video name="futur/futur-c-*-0.png">
+    <frame number="0">
+      <point n="0" x="190" y="202"/>
+      <point n="1" x="155" y="95"/>
+    </frame>
+  </video>
+  <video name="man__/man__-c-*-0.png">
+    <frame number="0">
+      <point n="0" x="182" y="201"/>
+      <point n="1" x="165" y="59"/>
+    </frame>
+  </video>
+  <video name="ystdy/stdy-a-*-0.png">
+    <frame number="0">
+      <point n="0" x="200" y="228"/>
+      <point n="1" x="147" y="91"/>
+    </frame>
+  </video>
+  <video name="go3__/go3__-c-*-0.png">
+    <frame number="0">
+      <point n="0" x="171" y="150"/>
+      <point n="1" x="139" y="78"/>
+    </frame>
+  </video>
+  <video name="what_/what_-d-*-0.png">
+    <frame number="0">
+      <point n="0" x="183" y="155"/>
+      <point n="1" x="135" y="121"/>
+    </frame>
+  </video>
+  <video name="ystdy/stdy-b-*-0.png">
+    <frame number="0">
+      <point n="0" x="230" y="162"/>
+      <point n="1" x="145" y="91"/>
+    </frame>
+  </video>
+  <video name="smone/smone-f-*-0.png">
+    <frame number="0">
+      <point n="0" x="181" y="204"/>
+      <point n="1" x="185" y="49"/>
+    </frame>
+  </video>
+  <video name="go3__/go3__-a-*-0.png">
+    <frame number="0">
+      <point n="0" x="177" y="145"/>
+      <point n="1" x="137" y="81"/>
+    </frame>
+  </video>
+  <video name="book_/book_-c-*-0.png">
+    <frame number="0">
+      <point n="0" x="181" y="102"/>
+      <point n="1" x="168" y="98"/>
+    </frame>
+  </video>
+  <video name="ix1__/ix1__-n-*-0.png">
+    <frame number="0">
+      <point n="0" x="211" y="235"/>
+      <point n="1" x="141" y="121"/>
+    </frame>
+  </video>
+  <video name="ix1__/ix1__-m-*-0.png">
+    <frame number="0">
+      <point n="0" x="208" y="238"/>
+      <point n="1" x="147" y="125"/>
+    </frame>
+  </video>
+  <video name="blame/blame-a-*-0.png">
+    <frame number="0">
+      <point n="0" x="209" y="128"/>
+      <point n="1" x="115" y="86"/>
+    </frame>
+  </video>
+  <video name="shoud/shoud-e-*-0.png">
+    <frame number="0">
+      <point n="0" x="181" y="208"/>
+      <point n="1" x="139" y="93"/>
+    </frame>
+  </video>
+  <video name="what2/what2-a-*-0.png">
+    <frame number="0">
+      <point n="0" x="184" y="144"/>
+      <point n="1" x="145" y="99"/>
+    </frame>
+  </video>
+  <video name="futu1/futu1-d-*-0.png">
+    <frame number="0">
+      <point n="0" x="160" y="177"/>
+      <point n="1" x="143" y="91"/>
+    </frame>
+  </video>
+  <video name="buy2_/buy2_-a-*-0.png">
+    <frame number="0">
+      <point n="0" x="202" y="212"/>
+      <point n="1" x="158" y="113"/>
+    </frame>
+  </video>
+  <video name="poss_/poss_-f-*-0.png">
+    <frame number="0">
+      <point n="0" x="188" y="199"/>
+      <point n="1" x="138" y="77"/>
+    </frame>
+  </video>
+  <video name="love_/love_-c-*-0.png">
+    <frame number="0">
+      <point n="0" x="245" y="165"/>
+      <point n="1" x="143" y="130"/>
+    </frame>
+  </video>
+  <video name="book3/book3-f-*-0.png">
+    <frame number="0">
+      <point n="0" x="200" y="153"/>
+      <point n="1" x="174" y="144"/>
+    </frame>
+  </video>
+  <video name="give_/give_-b-*-0.png">
+    <frame number="0">
+      <point n="0" x="174" y="149"/>
+      <point n="1" x="122" y="103"/>
+    </frame>
+  </video>
+  <video name="give4/give4-f-*-0.png">
+    <frame number="0">
+      <point n="0" x="206" y="237"/>
+      <point n="1" x="152" y="95"/>
+    </frame>
+  </video>
+  <video name="read_/read_-c-*-0.png">
+    <frame number="0">
+      <point n="0" x="192" y="122"/>
+      <point n="1" x="156" y="99"/>
+    </frame>
+  </video>
+  <video name="book3/book3-d-*-0.png">
+    <frame number="0">
+      <point n="0" x="201" y="146"/>
+      <point n="1" x="177" y="138"/>
+    </frame>
+  </video>
+  <video name="like_/like_-a-*-0.png">
+    <frame number="0">
+      <point n="0" x="201" y="236"/>
+      <point n="1" x="156" y="133"/>
+    </frame>
+  </video>
+  <video name="car__/car__-l-*-0.png">
+    <frame number="0">
+      <point n="0" x="189" y="146"/>
+      <point n="1" x="142" y="93"/>
+    </frame>
+  </video>
+  <video name="stndt/stndt-b-*-0.png">
+    <frame number="0">
+      <point n="0" x="173" y="118"/>
+      <point n="1" x="148" y="98"/>
+    </frame>
+  </video>
+  <video name="book3/book3-h-*-0.png">
+    <frame number="0">
+      <point n="0" x="189" y="126"/>
+      <point n="1" x="161" y="114"/>
+    </frame>
+  </video>
+  <video name="vgtbl/vgtbl-b-*-0.png">
+    <frame number="0">
+      <point n="0" x="204" y="237"/>
+      <point n="1" x="157" y="113"/>
+    </frame>
+  </video>
+  <video name="pepol/pepol-a-*-0.png">
+    <frame number="0">
+      <point n="0" x="212" y="129"/>
+      <point n="1" x="138" y="129"/>
+    </frame>
+  </video>
+  <video name="ix4__/ix4__-c-*-0.png">
+    <frame number="0">
+      <point n="0" x="212" y="237"/>
+      <point n="1" x="138" y="133"/>
+    </frame>
+  </video>
+  <video name="go1__/go1__-a-*-0.png">
+    <frame number="0">
+      <point n="0" x="214" y="146"/>
+      <point n="1" x="147" y="125"/>
+    </frame>
+  </video>
+  <video name="who__/who__-g-*-0.png">
+    <frame number="0">
+      <point n="0" x="154" y="179"/>
+      <point n="1" x="152" y="111"/>
+    </frame>
+  </video>
+  <video name="ix4__/ix4__-a-*-0.png">
+    <frame number="0">
+      <point n="0" x="149" y="183"/>
+      <point n="1" x="140" y="104"/>
+    </frame>
+  </video>
+  <video name="go1__/go1__-b-*-0.png">
+    <frame number="0">
+      <point n="0" x="214" y="150"/>
+      <point n="1" x="142" y="121"/>
+    </frame>
+  </video>
+  <video name="prefr/prefr-a-*-0.png">
+    <frame number="0">
+      <point n="0" x="160" y="178"/>
+      <point n="1" x="139" y="88"/>
+    </frame>
+  </video>
+  <video name="have_/have_-a-*-0.png">
+    <frame number="0">
+      <point n="0" x="205" y="201"/>
+      <point n="1" x="148" y="135"/>
+    </frame>
+  </video>
+  <video name="buy__/buy__-t-*-0.png">
+    <frame number="0">
+      <point n="0" x="190" y="148"/>
+      <point n="1" x="168" y="121"/>
+    </frame>
+  </video>
+  <video name="visit/visit-b-*-0.png">
+    <frame number="0">
+      <point n="0" x="151" y="185"/>
+      <point n="1" x="145" y="83"/>
+    </frame>
+  </video>
+  <video name="futur/futur-e-*-0.png">
+    <frame number="0">
+      <point n="0" x="181" y="207"/>
+      <point n="1" x="150" y="82"/>
+    </frame>
+  </video>
+  <video name="who__/who__-o-*-0.png">
+    <frame number="0">
+      <point n="0" x="145" y="185"/>
+      <point n="1" x="150" y="78"/>
+    </frame>
+  </video>
+  <video name="go___/go___-g-*-0.png">
+    <frame number="0">
+      <point n="0" x="158" y="184"/>
+      <point n="1" x="147" y="85"/>
+    </frame>
+  </video>
+  <video name="ariv4/ariv4-c-*-0.png">
+    <frame number="0">
+      <point n="0" x="177" y="124"/>
+      <point n="1" x="132" y="98"/>
+    </frame>
+  </video>
+  <video name="can__/can__-a-*-0.png">
+    <frame number="0">
+      <point n="0" x="178" y="137"/>
+      <point n="1" x="145" y="85"/>
+    </frame>
+  </video>
+  <video name="love2/love2-a-*-0.png">
+    <frame number="0">
+      <point n="0" x="167" y="150"/>
+      <point n="1" x="144" y="94"/>
+    </frame>
+  </video>
+  <video name="buy__/buy__-g-*-0.png">
+    <frame number="0">
+      <point n="0" x="175" y="137"/>
+      <point n="1" x="154" y="99"/>
+    </frame>
+  </video>
+  <video name="arive/arive-b-*-0.png">
+    <frame number="0">
+      <point n="0" x="205" y="136"/>
+      <point n="1" x="140" y="109"/>
+    </frame>
+  </video>
+  <video name="toy__/toy__-a-*-0.png">
+    <frame number="0">
+      <point n="0" x="227" y="169"/>
+      <point n="1" x="146" y="118"/>
+    </frame>
+  </video>
+  <video name="futur/futur-j-*-0.png">
+    <frame number="0">
+      <point n="0" x="157" y="179"/>
+      <point n="1" x="143" y="92"/>
+    </frame>
+  </video>
+  <video name="what_/what_-a-*-0.png">
+    <frame number="0">
+      <point n="0" x="199" y="147"/>
+      <point n="1" x="150" y="144"/>
+    </frame>
+  </video>
+  <video name="futur/futur-k-*-0.png">
+    <frame number="0">
+      <point n="0" x="199" y="236"/>
+      <point n="1" x="145" y="94"/>
+    </frame>
+  </video>
+  <video name="who1_/who1_-d-*-0.png">
+    <frame number="0">
+      <point n="0" x="208" y="236"/>
+      <point n="1" x="158" y="96"/>
+    </frame>
+  </video>
+  <video name="smone/smone-i-*-0.png">
+    <frame number="0">
+      <point n="0" x="149" y="180"/>
+      <point n="1" x="134" y="103"/>
+    </frame>
+  </video>
+  <video name="who1_/who1_-g-*-0.png">
+    <frame number="0">
+      <point n="0" x="208" y="237"/>
+      <point n="1" x="165" y="99"/>
+    </frame>
+  </video>
+  <video name="blame/blame-f-*-0.png">
+    <frame number="0">
+      <point n="0" x="222" y="204"/>
+      <point n="1" x="140" y="118"/>
+    </frame>
+  </video>
+  <video name="prefr/prefr-d-*-0.png">
+    <frame number="0">
+      <point n="0" x="207" y="238"/>
+      <point n="1" x="148" y="94"/>
+    </frame>
+  </video>
+  <video name="bdown/bdown-a-*-0.png">
+    <frame number="0">
+      <point n="0" x="199" y="94"/>
+      <point n="1" x="150" y="97"/>
+    </frame>
+  </video>
+  <video name="brthr/brthr-b-*-0.png">
+    <frame number="0">
+      <point n="0" x="156" y="173"/>
+      <point n="1" x="113" y="55"/>
+    </frame>
+  </video>
+  <video name="can__/can__-j-*-0.png">
+    <frame number="0">
+      <point n="0" x="199" y="139"/>
+      <point n="1" x="134" y="100"/>
+    </frame>
+  </video>
+  <video name="ystdy/stdy-g-*-0.png">
+    <frame number="0">
+      <point n="0" x="194" y="189"/>
+      <point n="1" x="154" y="86"/>
+    </frame>
+  </video>
+  <video name="ix1__/ix1__-e-*-0.png">
+    <frame number="0">
+      <point n="0" x="195" y="214"/>
+      <point n="1" x="152" y="124"/>
+    </frame>
+  </video>
+  <video name="house/house-l-*-0.png">
+    <frame number="0">
+      <point n="0" x="197" y="88"/>
+      <point n="1" x="154" y="89"/>
+    </frame>
+  </video>
+  <video name="give_/give_-d-*-0.png">
+    <frame number="0">
+      <point n="0" x="166" y="124"/>
+      <point n="1" x="107" y="87"/>
+    </frame>
+  </video>
+  <video name="poss_/poss_-l-*-0.png">
+    <frame number="0">
+      <point n="0" x="210" y="238"/>
+      <point n="1" x="142" y="110"/>
+    </frame>
+  </video>
+  <video name="box__/box__-d-*-0.png">
+    <frame number="0">
+      <point n="0" x="255" y="184"/>
+      <point n="1" x="164" y="127"/>
+    </frame>
+  </video>
+  <video name="car1_/car1_-b-*-0.png">
+    <frame number="0">
+      <point n="0" x="211" y="198"/>
+      <point n="1" x="129" y="118"/>
+    </frame>
+  </video>
+  <video name="smone/smone-j-*-0.png">
+    <frame number="0">
+      <point n="0" x="146" y="182"/>
+      <point n="1" x="134" y="90"/>
+    </frame>
+  </video>
+  <video name="house/house-j-*-0.png">
+    <frame number="0">
+      <point n="0" x="183" y="117"/>
+      <point n="1" x="144" y="109"/>
+    </frame>
+  </video>
+  <video name="ix3__/ix3__-b-*-0.png">
+    <frame number="0">
+      <point n="0" x="200" y="235"/>
+      <point n="1" x="167" y="129"/>
+    </frame>
+  </video>
+  <video name="house/house-i-*-0.png">
+    <frame number="0">
+      <point n="0" x="193" y="115"/>
+      <point n="1" x="157" y="109"/>
+    </frame>
+  </video>
+  <video name="ystdy/stdy-f-*-0.png">
+    <frame number="0">
+      <point n="0" x="177" y="126"/>
+      <point n="1" x="138" y="78"/>
+    </frame>
+  </video>
+  <video name="buy__/buy__-n-*-0.png">
+    <frame number="0">
+      <point n="0" x="190" y="174"/>
+      <point n="1" x="155" y="111"/>
+    </frame>
+  </video>
+  <video name="book_/book_-a-*-0.png">
+    <frame number="0">
+      <point n="0" x="179" y="111"/>
+      <point n="1" x="165" y="110"/>
+    </frame>
+  </video>
+  <video name="buy2_/buy2_-g-*-0.png">
+    <frame number="0">
+      <point n="0" x="209" y="198"/>
+      <point n="1" x="163" y="131"/>
+    </frame>
+  </video>
+  <video name="car__/car__-g-*-0.png">
+    <frame number="0">
+      <point n="0" x="188" y="111"/>
+      <point n="1" x="119" y="101"/>
+    </frame>
+  </video>
+  <video name="who__/who__-p-*-0.png">
+    <frame number="0">
+      <point n="0" x="157" y="174"/>
+      <point n="1" x="167" y="95"/>
+    </frame>
+  </video>
+  <video name="finsh/finsh-c-*-0.png">
+    <frame number="0">
+      <point n="0" x="193" y="168"/>
+      <point n="1" x="137" y="89"/>
+    </frame>
+  </video>
+  <video name="book1/book1-b-*-0.png">
+    <frame number="0">
+      <point n="0" x="182" y="113"/>
+      <point n="1" x="142" y="98"/>
+    </frame>
+  </video>
+  <video name="ix1__/ix1__-j-*-0.png">
+    <frame number="0">
+      <point n="0" x="181" y="189"/>
+      <point n="1" x="143" y="76"/>
+    </frame>
+  </video>
+  <video name="give3/give3-c-*-0.png">
+    <frame number="0">
+      <point n="0" x="207" y="238"/>
+      <point n="1" x="135" y="81"/>
+    </frame>
+  </video>
+  <video name="give5/give5-b-*-0.png">
+    <frame number="0">
+      <point n="0" x="239" y="152"/>
+      <point n="1" x="130" y="75"/>
+    </frame>
+  </video>
+  <video name="1x1pi/1x1pi-c-*-0.png">
+    <frame number="0">
+      <point n="0" x="180" y="205"/>
+      <point n="1" x="155" y="111"/>
+    </frame>
+  </video>
+  <video name="ix1pi/ix1pi-b-*-0.png">
+    <frame number="0">
+      <point n="0" x="147" y="181"/>
+      <point n="1" x="162" y="149"/>
+    </frame>
+  </video>
+  <video name="visi2/visi2-b-*-0.png">
+    <frame number="0">
+      <point n="0" x="182" y="199"/>
+      <point n="1" x="152" y="77"/>
+    </frame>
+  </video>
+  <video name="buy2_/buy2_-f-*-0.png">
+    <frame number="0">
+      <point n="0" x="203" y="197"/>
+      <point n="1" x="160" y="135"/>
+    </frame>
+  </video>
+  <video name="futur/futur-a-*-0.png">
+    <frame number="0">
+      <point n="0" x="180" y="209"/>
+      <point n="1" x="153" y="79"/>
+    </frame>
+  </video>
+  <video name="like_/like_-c-*-0.png">
+    <frame number="0">
+      <point n="0" x="206" y="239"/>
+      <point n="1" x="175" y="120"/>
+    </frame>
+  </video>
+  <video name="new__/new__-a-*-0.png">
+    <frame number="0">
+      <point n="0" x="183" y="189"/>
+      <point n="1" x="112" y="99"/>
+    </frame>
+  </video>
+  <video name="shoud/shoud-d-*-0.png">
+    <frame number="0">
+      <point n="0" x="183" y="202"/>
+      <point n="1" x="147" y="95"/>
+    </frame>
+  </video>
+  <video name="frend/frend-a-*-0.png">
+    <frame number="0">
+      <point n="0" x="188" y="190"/>
+      <point n="1" x="121" y="113"/>
+    </frame>
+  </video>
+  <video name="love_/love_-d-*-0.png">
+    <frame number="0">
+      <point n="0" x="182" y="202"/>
+      <point n="1" x="174" y="109"/>
+    </frame>
+  </video>
+  <video name="visi1/visi1-d-*-0.png">
+    <frame number="0">
+      <point n="0" x="206" y="238"/>
+      <point n="1" x="167" y="105"/>
+    </frame>
+  </video>
+  <video name="go___/go___-e-*-0.png">
+    <frame number="0">
+      <point n="0" x="152" y="185"/>
+      <point n="1" x="139" y="76"/>
+    </frame>
+  </video>
+  <video name="car__/car__-h-*-0.png">
+    <frame number="0">
+      <point n="0" x="189" y="116"/>
+      <point n="1" x="150" y="95"/>
+    </frame>
+  </video>
+  <video name="not__/not__-c-*-0.png">
+    <frame number="0">
+      <point n="0" x="188" y="202"/>
+      <point n="1" x="156" y="88"/>
+    </frame>
+  </video>
+  <video name="think/think-a-*-0.png">
+    <frame number="0">
+      <point n="0" x="200" y="237"/>
+      <point n="1" x="143" y="86"/>
+    </frame>
+  </video>
+  <video name="prefr/prefr-b-*-0.png">
+    <frame number="0">
+      <point n="0" x="157" y="178"/>
+      <point n="1" x="143" y="86"/>
+    </frame>
+  </video>
+  <video name="smone/smone-c-*-0.png">
+    <frame number="0">
+      <point n="0" x="210" y="237"/>
+      <point n="1" x="115" y="68"/>
+    </frame>
+  </video>
+  <video name="what2/what2-b-*-0.png">
+    <frame number="0">
+      <point n="0" x="169" y="172"/>
+      <point n="1" x="140" y="100"/>
+    </frame>
+  </video>
+  <video name="coat_/coat_-c-*-0.png">
+    <frame number="0">
+      <point n="0" x="197" y="112"/>
+      <point n="1" x="160" y="108"/>
+    </frame>
+  </video>
+  <video name="woman/woman-c-*-0.png">
+    <frame number="0">
+      <point n="0" x="207" y="236"/>
+      <point n="1" x="164" y="96"/>
+    </frame>
+  </video>
+  <video name="ix3__/ix3__-d-*-0.png">
+    <frame number="0">
+      <point n="0" x="201" y="238"/>
+      <point n="1" x="155" y="117"/>
+    </frame>
+  </video>
+  <video name="have_/have_-d-*-0.png">
+    <frame number="0">
+      <point n="0" x="195" y="198"/>
+      <point n="1" x="131" y="147"/>
+    </frame>
+  </video>
+  <video name="love2/love2-d-*-0.png">
+    <frame number="0">
+      <point n="0" x="146" y="164"/>
+      <point n="1" x="173" y="138"/>
+    </frame>
+  </video>
+  <video name="ix2__/ix2__-k-*-0.png">
+    <frame number="0">
+      <point n="0" x="207" y="238"/>
+      <point n="1" x="171" y="97"/>
+    </frame>
+  </video>
+  <video name="what3/what3-e-*-0.png">
+    <frame number="0">
+      <point n="0" x="227" y="206"/>
+      <point n="1" x="144" y="201"/>
+    </frame>
+  </video>
+  <video name="go3__/go3__-b-*-0.png">
+    <frame number="0">
+      <point n="0" x="210" y="113"/>
+      <point n="1" x="145" y="81"/>
+    </frame>
+  </video>
+  <video name="ix2__/ix2__-j-*-0.png">
+    <frame number="0">
+      <point n="0" x="211" y="237"/>
+      <point n="1" x="135" y="112"/>
+    </frame>
+  </video>
+  <video name="what_/what_-g-*-0.png">
+    <frame number="0">
+      <point n="0" x="208" y="123"/>
+      <point n="1" x="118" y="85"/>
+    </frame>
+  </video>
+  <video name="movie/movie-a-*-0.png">
+    <frame number="0">
+      <point n="0" x="196" y="109"/>
+      <point n="1" x="168" y="92"/>
+    </frame>
+  </video>
+  <video name="think/think-b-*-0.png">
+    <frame number="0">
+      <point n="0" x="203" y="235"/>
+      <point n="1" x="145" y="92"/>
+    </frame>
+  </video>
+  <video name="arive/arive-a-*-0.png">
+    <frame number="0">
+      <point n="0" x="180" y="210"/>
+      <point n="1" x="170" y="110"/>
+    </frame>
+  </video>
+  <video name="who__/who__-a-*-0.png">
+    <frame number="0">
+      <point n="0" x="188" y="203"/>
+      <point n="1" x="153" y="79"/>
+    </frame>
+  </video>
+  <video name="blame/blame-c-*-0.png">
+    <frame number="0">
+      <point n="0" x="185" y="168"/>
+      <point n="1" x="149" y="94"/>
+    </frame>
+  </video>
+  <video name="buy1_/buy1_-b-*-0.png">
+    <frame number="0">
+      <point n="0" x="199" y="208"/>
+      <point n="1" x="153" y="145"/>
+    </frame>
+  </video>
+  <video name="1x1pi/1x1pi-b-*-0.png">
+    <frame number="0">
+      <point n="0" x="145" y="181"/>
+      <point n="1" x="143" y="88"/>
+    </frame>
+  </video>
+  <video name="buy__/buy__-j-*-0.png">
+    <frame number="0">
+      <point n="0" x="176" y="156"/>
+      <point n="1" x="149" y="109"/>
+    </frame>
+  </video>
+  <video name="visit/visit-g-*-0.png">
+    <frame number="0">
+      <point n="0" x="207" y="238"/>
+      <point n="1" x="158" y="85"/>
+    </frame>
+  </video>
+  <video name="ixfa1/ixfa1-a-*-0.png">
+    <frame number="0">
+      <point n="0" x="182" y="204"/>
+      <point n="1" x="136" y="67"/>
+    </frame>
+  </video>
+  <video name="buy__/buy__-h-*-0.png">
+    <frame number="0">
+      <point n="0" x="185" y="160"/>
+      <point n="1" x="158" y="93"/>
+    </frame>
+  </video>
+  <video name="read_/read_-d-*-0.png">
+    <frame number="0">
+      <point n="0" x="195" y="122"/>
+      <point n="1" x="160" y="102"/>
+    </frame>
+  </video>
+  <video name="what_/what_-f-*-0.png">
+    <frame number="0">
+      <point n="0" x="202" y="113"/>
+      <point n="1" x="124" y="104"/>
+    </frame>
+  </video>
+  <video name="book3/book3-g-*-0.png">
+    <frame number="0">
+      <point n="0" x="205" y="130"/>
+      <point n="1" x="175" y="114"/>
+    </frame>
+  </video>
+  <video name="like_/like_-e-*-0.png">
+    <frame number="0">
+      <point n="0" x="209" y="240"/>
+      <point n="1" x="149" y="128"/>
+    </frame>
+  </video>
+  <video name="poss_/poss_-j-*-0.png">
+    <frame number="0">
+      <point n="0" x="158" y="178"/>
+      <point n="1" x="144" y="84"/>
+    </frame>
+  </video>
+  <video name="arive/arive-c-*-0.png">
+    <frame number="0">
+      <point n="0" x="205" y="153"/>
+      <point n="1" x="161" y="109"/>
+    </frame>
+  </video>
+  <video name="ystdy/stdy-c-*-0.png">
+    <frame number="0">
+      <point n="0" x="189" y="119"/>
+      <point n="1" x="132" y="80"/>
+    </frame>
+  </video>
+  <video name="buy__/buy__-d-*-0.png">
+    <frame number="0">
+      <point n="0" x="168" y="153"/>
+      <point n="1" x="153" y="107"/>
+    </frame>
+  </video>
+  <video name="can__/can__-s-*-0.png">
+    <frame number="0">
+      <point n="0" x="200" y="123"/>
+      <point n="1" x="149" y="88"/>
+    </frame>
+  </video>
+  <video name="book_/book_-d-*-0.png">
+    <frame number="0">
+      <point n="0" x="191" y="117"/>
+      <point n="1" x="172" y="111"/>
+    </frame>
+  </video>
+  <video name="ariv4/ariv4-a-*-0.png">
+    <frame number="0">
+      <point n="0" x="167" y="151"/>
+      <point n="1" x="140" y="110"/>
+    </frame>
+  </video>
+  <video name="go2__/go2__-a-*-0.png">
+    <frame number="0">
+      <point n="0" x="176" y="125"/>
+      <point n="1" x="135" y="76"/>
+    </frame>
+  </video>
+  <video name="box__/box__-f-*-0.png">
+    <frame number="0">
+      <point n="0" x="218" y="167"/>
+      <point n="1" x="120" y="122"/>
+    </frame>
+  </video>
+  <video name="leave/leave-a-*-0.png">
+    <frame number="0">
+      <point n="0" x="183" y="187"/>
+      <point n="1" x="161" y="100"/>
+    </frame>
+  </video>
+  <video name="new__/new__-e-*-0.png">
+    <frame number="0">
+      <point n="0" x="200" y="122"/>
+      <point n="1" x="142" y="103"/>
+    </frame>
+  </video>
+  <video name="futur/futur-l-*-0.png">
+    <frame number="0">
+      <point n="0" x="148" y="183"/>
+      <point n="1" x="149" y="88"/>
+    </frame>
+  </video>
+  <video name="house/house-c-*-0.png">
+    <frame number="0">
+      <point n="0" x="195" y="95"/>
+      <point n="1" x="154" y="87"/>
+    </frame>
+  </video>
+  <video name="poss_/poss_-k-*-0.png">
+    <frame number="0">
+      <point n="0" x="207" y="239"/>
+      <point n="1" x="144" y="109"/>
+    </frame>
+  </video>
+  <video name="ix4__/ix4__-b-*-0.png">
+    <frame number="0">
+      <point n="0" x="184" y="202"/>
+      <point n="1" x="145" y="85"/>
+    </frame>
+  </video>
+  <video name="car2_/car2_-a-*-0.png">
+    <frame number="0">
+      <point n="0" x="202" y="216"/>
+      <point n="1" x="126" y="124"/>
+    </frame>
+  </video>
+  <video name="buy__/buy__-a-*-0.png">
+    <frame number="0">
+      <point n="0" x="194" y="158"/>
+      <point n="1" x="159" y="117"/>
+    </frame>
+  </video>
+  <video name="book1/book1-a-*-0.png">
+    <frame number="0">
+      <point n="0" x="174" y="100"/>
+      <point n="1" x="160" y="99"/>
+    </frame>
+  </video>
+  <video name="buy2_/buy2_-c-*-0.png">
+    <frame number="0">
+      <point n="0" x="208" y="188"/>
+      <point n="1" x="167" y="141"/>
+    </frame>
+  </video>
+  <video name="ystdy/stdy-j-*-0.png">
+    <frame number="0">
+      <point n="0" x="179" y="189"/>
+      <point n="1" x="149" y="79"/>
+    </frame>
+  </video>
+  <video name="can__/can__-l-*-0.png">
+    <frame number="0">
+      <point n="0" x="180" y="149"/>
+      <point n="1" x="138" y="109"/>
+    </frame>
+  </video>
+  <video name="give1/give1-b-*-0.png">
+    <frame number="0">
+      <point n="0" x="183" y="204"/>
+      <point n="1" x="154" y="80"/>
+    </frame>
+  </video>
+  <video name="hmwrk/hmwrk-b-*-0.png">
+    <frame number="0">
+      <point n="0" x="174" y="141"/>
+      <point n="1" x="144" y="84"/>
+    </frame>
+  </video>
+  <video name="ix1__/ix1__-o-*-0.png">
+    <frame number="0">
+      <point n="0" x="210" y="239"/>
+      <point n="1" x="148" y="124"/>
+    </frame>
+  </video>
+  <video name="what3/what3-a-*-0.png">
+    <frame number="0">
+      <point n="0" x="204" y="161"/>
+      <point n="1" x="148" y="135"/>
+    </frame>
+  </video>
+  <video name="give3/give3-a-*-0.png">
+    <frame number="0">
+      <point n="0" x="184" y="199"/>
+      <point n="1" x="150" y="83"/>
+    </frame>
+  </video>
+  <video name="smone/smone-k-*-0.png">
+    <frame number="0">
+      <point n="0" x="202" y="238"/>
+      <point n="1" x="151" y="112"/>
+    </frame>
+  </video>
+  <video name="who__/who__-n-*-0.png">
+    <frame number="0">
+      <point n="0" x="143" y="187"/>
+      <point n="1" x="159" y="100"/>
+    </frame>
+  </video>
+  <video name="what3/what3-c-*-0.png">
+    <frame number="0">
+      <point n="0" x="249" y="167"/>
+      <point n="1" x="151" y="145"/>
+    </frame>
+  </video>
+  <video name="ixfa1/ixfa1-b-*-0.png">
+    <frame number="0">
+      <point n="0" x="187" y="190"/>
+      <point n="1" x="135" y="70"/>
+    </frame>
+  </video>
+  <video name="poss_/poss_-b-*-0.png">
+    <frame number="0">
+      <point n="0" x="144" y="179"/>
+      <point n="1" x="138" y="106"/>
+    </frame>
+  </video>
+  <video name="visi1/visi1-b-*-0.png">
+    <frame number="0">
+      <point n="0" x="206" y="239"/>
+      <point n="1" x="150" y="94"/>
+    </frame>
+  </video>
+  <video name="go___/go___-f-*-0.png">
+    <frame number="0">
+      <point n="0" x="203" y="236"/>
+      <point n="1" x="146" y="82"/>
+    </frame>
+  </video>
+  <video name="give4/give4-a-*-0.png">
+    <frame number="0">
+      <point n="0" x="210" y="235"/>
+      <point n="1" x="135" y="82"/>
+    </frame>
+  </video>
+  <video name="futur/futur-m-*-0.png">
+    <frame number="0">
+      <point n="0" x="154" y="178"/>
+      <point n="1" x="145" y="85"/>
+    </frame>
+  </video>
+  <video name="what_/what_-j-*-0.png">
+    <frame number="0">
+      <point n="0" x="185" y="150"/>
+      <point n="1" x="135" y="112"/>
+    </frame>
+  </video>
+  <video name="who__/who__-h-*-0.png">
+    <frame number="0">
+      <point n="0" x="164" y="179"/>
+      <point n="1" x="147" y="97"/>
+    </frame>
+  </video>
+  <video name="box__/box__-c-*-0.png">
+    <frame number="0">
+      <point n="0" x="229" y="205"/>
+      <point n="1" x="135" y="126"/>
+    </frame>
+  </video>
+  <video name="book2/book2-a-*-0.png">
+    <frame number="0">
+      <point n="0" x="204" y="158"/>
+      <point n="1" x="167" y="162"/>
+    </frame>
+  </video>
+  <video name="who__/who__-k-*-0.png">
+    <frame number="0">
+      <point n="0" x="151" y="182"/>
+      <point n="1" x="154" y="71"/>
+    </frame>
+  </video>
+  <video name="ixfal/ixfal-b-*-0.png">
+    <frame number="0">
+      <point n="0" x="179" y="208"/>
+      <point n="1" x="171" y="66"/>
+    </frame>
+  </video>
+  <video name="house/house-h-*-0.png">
+    <frame number="0">
+      <point n="0" x="195" y="112"/>
+      <point n="1" x="154" y="102"/>
+    </frame>
+  </video>
+  <video name="house/house-k-*-0.png">
+    <frame number="0">
+      <point n="0" x="180" y="115"/>
+      <point n="1" x="146" y="107"/>
+    </frame>
+  </video>
+  <video name="leave/leave-b-*-0.png">
+    <frame number="0">
+      <point n="0" x="189" y="190"/>
+      <point n="1" x="141" y="103"/>
+    </frame>
+  </video>
+  <video name="woman/woman-b-*-0.png">
+    <frame number="0">
+      <point n="0" x="179" y="206"/>
+      <point n="1" x="177" y="83"/>
+    </frame>
+  </video>
+  <video name="visi1/visi1-c-*-0.png">
+    <frame number="0">
+      <point n="0" x="204" y="239"/>
+      <point n="1" x="161" y="111"/>
+    </frame>
+  </video>
+  <video name="smone/smone-d-*-0.png">
+    <frame number="0">
+      <point n="0" x="181" y="207"/>
+      <point n="1" x="185" y="58"/>
+    </frame>
+  </video>
+  <video name="shud1/shud1-b-*-0.png">
+    <frame number="0">
+      <point n="0" x="208" y="237"/>
+      <point n="1" x="135" y="116"/>
+    </frame>
+  </video>
+  <video name="give2/give2-a-*-0.png">
+    <frame number="0">
+      <point n="0" x="210" y="237"/>
+      <point n="1" x="160" y="108"/>
+    </frame>
+  </video>
+  <video name="ixfal/ixfal-c-*-0.png">
+    <frame number="0">
+      <point n="0" x="183" y="202"/>
+      <point n="1" x="175" y="49"/>
+    </frame>
+  </video>
+  <video name="car3_/car3_-a-*-0.png">
+    <frame number="0">
+      <point n="0" x="216" y="155"/>
+      <point n="1" x="154" y="142"/>
+    </frame>
+  </video>
+  <video name="can__/can__-f-*-0.png">
+    <frame number="0">
+      <point n="0" x="180" y="146"/>
+      <point n="1" x="135" y="99"/>
+    </frame>
+  </video>
+  <video name="ixfar/ixfar-e-*-0.png">
+    <frame number="0">
+      <point n="0" x="204" y="237"/>
+      <point n="1" x="151" y="104"/>
+    </frame>
+  </video>
+  <video name="poss_/poss_-g-*-0.png">
+    <frame number="0">
+      <point n="0" x="204" y="238"/>
+      <point n="1" x="149" y="111"/>
+    </frame>
+  </video>
+  <video name="house/house-g-*-0.png">
+    <frame number="0">
+      <point n="0" x="196" y="102"/>
+      <point n="1" x="158" y="92"/>
+    </frame>
+  </video>
+  <video name="give1/give1-e-*-0.png">
+    <frame number="0">
+      <point n="0" x="202" y="240"/>
+      <point n="1" x="155" y="111"/>
+    </frame>
+  </video>
+  <video name="buy2_/buy2_-b-*-0.png">
+    <frame number="0">
+      <point n="0" x="224" y="187"/>
+      <point n="1" x="157" y="125"/>
+    </frame>
+  </video>
+  <video name="ix1__/ix1__-f-*-0.png">
+    <frame number="0">
+      <point n="0" x="188" y="190"/>
+      <point n="1" x="127" y="95"/>
+    </frame>
+  </video>
+  <video name="visit/visit-c-*-0.png">
+    <frame number="0">
+      <point n="0" x="151" y="181"/>
+      <point n="1" x="142" y="81"/>
+    </frame>
+  </video>
+  <video name="write/write-a-*-0.png">
+    <frame number="0">
+      <point n="0" x="167" y="131"/>
+      <point n="1" x="154" y="97"/>
+    </frame>
+  </video>
+  <video name="ix2__/ix2__-g-*-0.png">
+    <frame number="0">
+      <point n="0" x="204" y="238"/>
+      <point n="1" x="173" y="101"/>
+    </frame>
+  </video>
+  <video name="who__/who__-m-*-0.png">
+    <frame number="0">
+      <point n="0" x="150" y="185"/>
+      <point n="1" x="158" y="98"/>
+    </frame>
+  </video>
+  <video name="can__/can__-g-*-0.png">
+    <frame number="0">
+      <point n="0" x="211" y="133"/>
+      <point n="1" x="126" y="115"/>
+    </frame>
+  </video>
+  <video name="ariv4/ariv4-b-*-0.png">
+    <frame number="0">
+      <point n="0" x="183" y="133"/>
+      <point n="1" x="140" y="107"/>
+    </frame>
+  </video>
+  <video name="car1_/car1_-c-*-0.png">
+    <frame number="0">
+      <point n="0" x="212" y="195"/>
+      <point n="1" x="125" y="138"/>
+    </frame>
+  </video>
+  <video name="car2_/car2_-b-*-0.png">
+    <frame number="0">
+      <point n="0" x="206" y="231"/>
+      <point n="1" x="139" y="136"/>
+    </frame>
+  </video>
+  <video name="love2/love2-b-*-0.png">
+    <frame number="0">
+      <point n="0" x="206" y="214"/>
+      <point n="1" x="173" y="169"/>
+    </frame>
+  </video>
+  <video name="ariv1/ariv1-b-*-0.png">
+    <frame number="0">
+      <point n="0" x="174" y="197"/>
+      <point n="1" x="113" y="99"/>
+    </frame>
+  </video>
+  <video name="car3_/car3_-b-*-0.png">
+    <frame number="0">
+      <point n="0" x="195" y="195"/>
+      <point n="1" x="113" y="118"/>
+    </frame>
+  </video>
+  <video name="who1_/who1_-e-*-0.png">
+    <frame number="0">
+      <point n="0" x="208" y="239"/>
+      <point n="1" x="139" y="88"/>
+    </frame>
+  </video>
+  <video name="ystdy/stdy-h-*-0.png">
+    <frame number="0">
+      <point n="0" x="149" y="181"/>
+      <point n="1" x="146" y="74"/>
+    </frame>
+  </video>
+  <video name="car__/car__-d-*-0.png">
+    <frame number="0">
+      <point n="0" x="181" y="111"/>
+      <point n="1" x="115" y="105"/>
+    </frame>
+  </video>
+  <video name="book1/book1-e-*-0.png">
+    <frame number="0">
+      <point n="0" x="182" y="110"/>
+      <point n="1" x="152" y="105"/>
+    </frame>
+  </video>
+  <video name="book3/book3-e-*-0.png">
+    <frame number="0">
+      <point n="0" x="200" y="146"/>
+      <point n="1" x="176" y="132"/>
+    </frame>
+  </video>
+  <video name="think/think-c-*-0.png">
+    <frame number="0">
+      <point n="0" x="186" y="200"/>
+      <point n="1" x="158" y="93"/>
+    </frame>
+  </video>
+  <video name="buy__/buy__-v-*-0.png">
+    <frame number="0">
+      <point n="0" x="175" y="148"/>
+      <point n="1" x="153" y="104"/>
+    </frame>
+  </video>
+  <video name="can__/can__-n-*-0.png">
+    <frame number="0">
+      <point n="0" x="193" y="150"/>
+      <point n="1" x="136" y="102"/>
+    </frame>
+  </video>
+  <video name="frend/frend-b-*-0.png">
+    <frame number="0">
+      <point n="0" x="185" y="198"/>
+      <point n="1" x="118" y="117"/>
+    </frame>
+  </video>
+  <video name="visit/visit-f-*-0.png">
+    <frame number="0">
+      <point n="0" x="159" y="179"/>
+      <point n="1" x="140" y="82"/>
+    </frame>
+  </video>
+  <video name="have_/have_-b-*-0.png">
+    <frame number="0">
+      <point n="0" x="206" y="214"/>
+      <point n="1" x="155" y="112"/>
+    </frame>
+  </video>
+  <video name="group/group-a-*-0.png">
+    <frame number="0">
+      <point n="0" x="181" y="124"/>
+      <point n="1" x="120" y="116"/>
+    </frame>
+  </video>
+  <video name="finsh/finsh-e-*-0.png">
+    <frame number="0">
+      <point n="0" x="181" y="180"/>
+      <point n="1" x="159" y="85"/>
+    </frame>
+  </video>
+  <video name="woman/woman-h-*-0.png">
+    <frame number="0">
+      <point n="0" x="197" y="159"/>
+      <point n="1" x="166" y="77"/>
+    </frame>
+  </video>
+  <video name="blame/blame-e-*-0.png">
+    <frame number="0">
+      <point n="0" x="215" y="205"/>
+      <point n="1" x="123" y="117"/>
+    </frame>
+  </video>
+  <video name="buy__/buy__-p-*-0.png">
+    <frame number="0">
+      <point n="0" x="166" y="165"/>
+      <point n="1" x="146" y="113"/>
+    </frame>
+  </video>
+  <video name="bdown/bdown-e-*-0.png">
+    <frame number="0">
+      <point n="0" x="192" y="95"/>
+      <point n="1" x="142" y="97"/>
+    </frame>
+  </video>
+  <video name="coat_/coat_-a-*-0.png">
+    <frame number="0">
+      <point n="0" x="192" y="112"/>
+      <point n="1" x="157" y="107"/>
+    </frame>
+  </video>
+  <video name="futu1/futu1-e-*-0.png">
+    <frame number="0">
+      <point n="0" x="203" y="137"/>
+      <point n="1" x="136" y="93"/>
+    </frame>
+  </video>
+  <video name="buy__/buy__-s-*-0.png">
+    <frame number="0">
+      <point n="0" x="180" y="132"/>
+      <point n="1" x="156" y="103"/>
+    </frame>
+  </video>
+  <video name="what_/what_-c-*-0.png">
+    <frame number="0">
+      <point n="0" x="188" y="109"/>
+      <point n="1" x="113" y="103"/>
+    </frame>
+  </video>
+  <video name="go___/go___-b-*-0.png">
+    <frame number="0">
+      <point n="0" x="209" y="191"/>
+      <point n="1" x="138" y="125"/>
+    </frame>
+  </video>
+  <video name="book_/book_-e-*-0.png">
+    <frame number="0">
+      <point n="0" x="182" y="105"/>
+      <point n="1" x="164" y="103"/>
+    </frame>
+  </video>
+  <video name="write/write-b-*-0.png">
+    <frame number="0">
+      <point n="0" x="173" y="136"/>
+      <point n="1" x="156" y="93"/>
+    </frame>
+  </video>
+  <video name="what_/what_-b-*-0.png">
+    <frame number="0">
+      <point n="0" x="183" y="137"/>
+      <point n="1" x="147" y="130"/>
+    </frame>
+  </video>
+  <video name="poss_/poss_-a-*-0.png">
+    <frame number="0">
+      <point n="0" x="183" y="201"/>
+      <point n="1" x="155" y="85"/>
+    </frame>
+  </video>
+  <video name="give2/give2-b-*-0.png">
+    <frame number="0">
+      <point n="0" x="206" y="236"/>
+      <point n="1" x="155" y="100"/>
+    </frame>
+  </video>
+  <video name="ariv2/ariv2-a-*-0.png">
+    <frame number="0">
+      <point n="0" x="210" y="212"/>
+      <point n="1" x="162" y="134"/>
+    </frame>
+  </video>
+  <video name="ix2__/ix2__-l-*-0.png">
+    <frame number="0">
+      <point n="0" x="206" y="237"/>
+      <point n="1" x="167" y="92"/>
+    </frame>
+  </video>
+  <video name="can__/can__-k-*-0.png">
+    <frame number="0">
+      <point n="0" x="208" y="131"/>
+      <point n="1" x="132" y="110"/>
+    </frame>
+  </video>
+  <video name="new__/new__-c-*-0.png">
+    <frame number="0">
+      <point n="0" x="169" y="150"/>
+      <point n="1" x="119" y="90"/>
+    </frame>
+  </video>
+  <video name="house/house-b-*-0.png">
+    <frame number="0">
+      <point n="0" x="183" y="109"/>
+      <point n="1" x="149" y="96"/>
+    </frame>
+  </video>
+  <video name="brthr/brthr-a-*-0.png">
+    <frame number="0">
+      <point n="0" x="163" y="172"/>
+      <point n="1" x="133" y="45"/>
+    </frame>
+  </video>
+  <video name="ix1__/ix1__-b-*-0.png">
+    <frame number="0">
+      <point n="0" x="202" y="237"/>
+      <point n="1" x="138" y="157"/>
+    </frame>
+  </video>
+  <video name="ix3__/ix3__-a-*-0.png">
+    <frame number="0">
+      <point n="0" x="205" y="235"/>
+      <point n="1" x="171" y="140"/>
+    </frame>
+  </video>
+  <video name="ix1pi/ix1pi-a-*-0.png">
+    <frame number="0">
+      <point n="0" x="151" y="186"/>
+      <point n="1" x="161" y="126"/>
+    </frame>
+  </video>
+  <video name="buy__/buy__-u-*-0.png">
+    <frame number="0">
+      <point n="0" x="182" y="139"/>
+      <point n="1" x="153" y="102"/>
+    </frame>
+  </video>
+  <video name="love1/love1-b-*-0.png">
+    <frame number="0">
+      <point n="0" x="194" y="227"/>
+      <point n="1" x="172" y="133"/>
+    </frame>
+  </video>
+  <video name="buy__/buy__-k-*-0.png">
+    <frame number="0">
+      <point n="0" x="188" y="135"/>
+      <point n="1" x="161" y="104"/>
+    </frame>
+  </video>
+  <video name="book3/book3-c-*-0.png">
+    <frame number="0">
+      <point n="0" x="180" y="135"/>
+      <point n="1" x="159" y="115"/>
+    </frame>
+  </video>
+  <video name="woman/woman-d-*-0.png">
+    <frame number="0">
+      <point n="0" x="183" y="203"/>
+      <point n="1" x="180" y="64"/>
+    </frame>
+  </video>
+  <video name="ariv3/ariv3-a-*-0.png">
+    <frame number="0">
+      <point n="0" x="157" y="160"/>
+      <point n="1" x="118" y="80"/>
+    </frame>
+  </video>
+  <video name="ix1__/ix1__-l-*-0.png">
+    <frame number="0">
+      <point n="0" x="189" y="217"/>
+      <point n="1" x="153" y="140"/>
+    </frame>
+  </video>
+  <video name="vgtbl/vgtbl-a-*-0.png">
+    <frame number="0">
+      <point n="0" x="207" y="236"/>
+      <point n="1" x="157" y="105"/>
+    </frame>
+  </video>
+  <video name="futu1/futu1-c-*-0.png">
+    <frame number="0">
+      <point n="0" x="156" y="178"/>
+      <point n="1" x="145" y="91"/>
+    </frame>
+  </video>
+  <video name="smone/smone-a-*-0.png">
+    <frame number="0">
+      <point n="0" x="147" y="181"/>
+      <point n="1" x="110" y="77"/>
+    </frame>
+  </video>
+  <video name="finss/finss-a-*-0.png">
+    <frame number="0">
+      <point n="0" x="208" y="239"/>
+      <point n="1" x="160" y="108"/>
+    </frame>
+  </video>
+  <video name="can__/can__-q-*-0.png">
+    <frame number="0">
+      <point n="0" x="205" y="131"/>
+      <point n="1" x="126" y="117"/>
+    </frame>
+  </video>
+  <video name="shud2/shud2-a-*-0.png">
+    <frame number="0">
+      <point n="0" x="209" y="236"/>
+      <point n="1" x="147" y="109"/>
+    </frame>
+  </video>
+  <video name="car__/car__-b-*-0.png">
+    <frame number="0">
+      <point n="0" x="191" y="114"/>
+      <point n="1" x="126" y="89"/>
+    </frame>
+  </video>
+  <video name="woman/woman-e-*-0.png">
+    <frame number="0">
+      <point n="0" x="208" y="237"/>
+      <point n="1" x="170" y="89"/>
+    </frame>
+  </video>
+  <video name="ix4__/ix4__-f-*-0.png">
+    <frame number="0">
+      <point n="0" x="145" y="180"/>
+      <point n="1" x="130" y="90"/>
+    </frame>
+  </video>
+  <video name="ix1__/ix1__-i-*-0.png">
+    <frame number="0">
+      <point n="0" x="187" y="190"/>
+      <point n="1" x="127" y="88"/>
+    </frame>
+  </video>
+  <video name="give5/give5-a-*-0.png">
+    <frame number="0">
+      <point n="0" x="243" y="144"/>
+      <point n="1" x="131" y="73"/>
+    </frame>
+  </video>
+  <video name="futu1/futu1-a-*-0.png">
+    <frame number="0">
+      <point n="0" x="192" y="136"/>
+      <point n="1" x="150" y="91"/>
+    </frame>
+  </video>
+  <video name="futur/futur-g-*-0.png">
+    <frame number="0">
+      <point n="0" x="180" y="205"/>
+      <point n="1" x="148" y="85"/>
+    </frame>
+  </video>
+  <video name="house/house-d-*-0.png">
+    <frame number="0">
+      <point n="0" x="205" y="109"/>
+      <point n="1" x="159" y="101"/>
+    </frame>
+  </video>
+  <video name="give1/give1-a-*-0.png">
+    <frame number="0">
+      <point n="0" x="181" y="203"/>
+      <point n="1" x="157" y="79"/>
+    </frame>
+  </video>
+  <video name="what1/what1-b-*-0.png">
+    <frame number="0">
+      <point n="0" x="239" y="164"/>
+      <point n="1" x="135" y="105"/>
+    </frame>
+  </video>
+  <video name="shoud/shoud-c-*-0.png">
+    <frame number="0">
+      <point n="0" x="180" y="205"/>
+      <point n="1" x="152" y="107"/>
+    </frame>
+  </video>
+  <video name="what_/what_-h-*-0.png">
+    <frame number="0">
+      <point n="0" x="202" y="135"/>
+      <point n="1" x="130" y="95"/>
+    </frame>
+  </video>
+  <video name="who__/who__-q-*-0.png">
+    <frame number="0">
+      <point n="0" x="169" y="171"/>
+      <point n="1" x="147" y="95"/>
+    </frame>
+  </video>
+  <video name="who__/who__-j-*-0.png">
+    <frame number="0">
+      <point n="0" x="147" y="190"/>
+      <point n="1" x="155" y="101"/>
+    </frame>
+  </video>
+  <video name="not__/not__-a-*-0.png">
+    <frame number="0">
+      <point n="0" x="157" y="177"/>
+      <point n="1" x="144" y="85"/>
+    </frame>
+  </video>
+  <video name="shoud/shoud-a-*-0.png">
+    <frame number="0">
+      <point n="0" x="157" y="178"/>
+      <point n="1" x="140" y="91"/>
+    </frame>
+  </video>
+  <video name="who__/who__-i-*-0.png">
+    <frame number="0">
+      <point n="0" x="148" y="179"/>
+      <point n="1" x="146" y="87"/>
+    </frame>
+  </video>
+  <video name="buy__/buy__-c-*-0.png">
+    <frame number="0">
+      <point n="0" x="178" y="147"/>
+      <point n="1" x="153" y="103"/>
+    </frame>
+  </video>
+  <video name="coat_/coat_-b-*-0.png">
+    <frame number="0">
+      <point n="0" x="191" y="96"/>
+      <point n="1" x="151" y="93"/>
+    </frame>
+  </video>
+  <video name="car__/car__-k-*-0.png">
+    <frame number="0">
+      <point n="0" x="195" y="107"/>
+      <point n="1" x="137" y="95"/>
+    </frame>
+  </video>
+  <video name="ystdy/stdy-i-*-0.png">
+    <frame number="0">
+      <point n="0" x="144" y="179"/>
+      <point n="1" x="152" y="83"/>
+    </frame>
+  </video>
+  <video name="can__/can__-m-*-0.png">
+    <frame number="0">
+      <point n="0" x="188" y="159"/>
+      <point n="1" x="129" y="113"/>
+    </frame>
+  </video>
+  <video name="house/house-f-*-0.png">
+    <frame number="0">
+      <point n="0" x="186" y="106"/>
+      <point n="1" x="147" y="96"/>
+    </frame>
+  </video>
+  <video name="give4/give4-b-*-0.png">
+    <frame number="0">
+      <point n="0" x="202" y="231"/>
+      <point n="1" x="151" y="87"/>
+    </frame>
+  </video>
+  <video name="ix2__/ix2__-a-*-0.png">
+    <frame number="0">
+      <point n="0" x="179" y="187"/>
+      <point n="1" x="154" y="90"/>
+    </frame>
+  </video>
+  <video name="pepol/pepol-b-*-0.png">
+    <frame number="0">
+      <point n="0" x="221" y="190"/>
+      <point n="1" x="142" y="145"/>
+    </frame>
+  </video>
+  <video name="ix4__/ix4__-e-*-0.png">
+    <frame number="0">
+      <point n="0" x="152" y="178"/>
+      <point n="1" x="135" y="85"/>
+    </frame>
+  </video>
+  <video name="love2/love2-e-*-0.png">
+    <frame number="0">
+      <point n="0" x="165" y="159"/>
+      <point n="1" x="148" y="100"/>
+    </frame>
+  </video>
+  <video name="not__/not__-g-*-0.png">
+    <frame number="0">
+      <point n="0" x="159" y="179"/>
+      <point n="1" x="140" y="90"/>
+    </frame>
+  </video>
+  <video name="shud1/shud1-a-*-0.png">
+    <frame number="0">
+      <point n="0" x="212" y="237"/>
+      <point n="1" x="141" y="118"/>
+    </frame>
+  </video>
+  <video name="ariv2/ariv2-c-*-0.png">
+    <frame number="0">
+      <point n="0" x="218" y="196"/>
+      <point n="1" x="145" y="121"/>
+    </frame>
+  </video>
+  <video name="who__/who__-e-*-0.png">
+    <frame number="0">
+      <point n="0" x="145" y="182"/>
+      <point n="1" x="149" y="98"/>
+    </frame>
+  </video>
+  <video name="who1_/who1_-h-*-0.png">
+    <frame number="0">
+      <point n="0" x="197" y="226"/>
+      <point n="1" x="166" y="105"/>
+    </frame>
+  </video>
+  <video name="not__/not__-d-*-0.png">
+    <frame number="0">
+      <point n="0" x="159" y="177"/>
+      <point n="1" x="142" y="84"/>
+    </frame>
+  </video>
+  <video name="can__/can__-b-*-0.png">
+    <frame number="0">
+      <point n="0" x="208" y="165"/>
+      <point n="1" x="138" y="117"/>
+    </frame>
+  </video>
+  <video name="smone/smone-h-*-0.png">
+    <frame number="0">
+      <point n="0" x="178" y="206"/>
+      <point n="1" x="155" y="116"/>
+    </frame>
+  </video>
+  <video name="poss_/poss_-e-*-0.png">
+    <frame number="0">
+      <point n="0" x="147" y="180"/>
+      <point n="1" x="134" y="101"/>
+    </frame>
+  </video>
+  <video name="buy1_/buy1_-a-*-0.png">
+    <frame number="0">
+      <point n="0" x="202" y="193"/>
+      <point n="1" x="151" y="139"/>
+    </frame>
+  </video>
+  <video name="box__/box__-b-*-0.png">
+    <frame number="0">
+      <point n="0" x="267" y="191"/>
+      <point n="1" x="167" y="140"/>
+    </frame>
+  </video>
+  <video name="finsh/finsh-b-*-0.png">
+    <frame number="0">
+      <point n="0" x="198" y="168"/>
+      <point n="1" x="139" y="84"/>
+    </frame>
+  </video>
+  <video name="can__/can__-c-*-0.png">
+    <frame number="0">
+      <point n="0" x="212" y="217"/>
+      <point n="1" x="151" y="140"/>
+    </frame>
+  </video>
+  <video name="visit/visit-e-*-0.png">
+    <frame number="0">
+      <point n="0" x="142" y="180"/>
+      <point n="1" x="138" y="89"/>
+    </frame>
+  </video>
+  <video name="give_/give_-c-*-0.png">
+    <frame number="0">
+      <point n="0" x="206" y="142"/>
+      <point n="1" x="139" y="103"/>
+    </frame>
+  </video>
+  <video name="book3/book3-i-*-0.png">
+    <frame number="0">
+      <point n="0" x="201" y="169"/>
+      <point n="1" x="164" y="139"/>
+    </frame>
+  </video>
+  <video name="who1_/who1_-f-*-0.png">
+    <frame number="0">
+      <point n="0" x="210" y="239"/>
+      <point n="1" x="163" y="104"/>
+    </frame>
+  </video>
+  <video name="ixfar/ixfar-a-*-0.png">
+    <frame number="0">
+      <point n="0" x="208" y="239"/>
+      <point n="1" x="135" y="76"/>
+    </frame>
+  </video>
+  <video name="blame/blame-b-*-0.png">
+    <frame number="0">
+      <point n="0" x="189" y="167"/>
+      <point n="1" x="136" y="88"/>
+    </frame>
+  </video>
+  <video name="candy/candy-b-*-0.png">
+    <frame number="0">
+      <point n="0" x="207" y="237"/>
+      <point n="1" x="145" y="119"/>
+    </frame>
+  </video>
+  <video name="what3/what3-h-*-0.png">
+    <frame number="0">
+      <point n="0" x="221" y="166"/>
+      <point n="1" x="132" y="101"/>
+    </frame>
+  </video>
+  <video name="can__/can__-r-*-0.png">
+    <frame number="0">
+      <point n="0" x="185" y="134"/>
+      <point n="1" x="142" y="90"/>
+    </frame>
+  </video>
+  <video name="not__/not__-b-*-0.png">
+    <frame number="0">
+      <point n="0" x="181" y="202"/>
+      <point n="1" x="157" y="88"/>
+    </frame>
+  </video>
+  <video name="who1_/who1_-c-*-0.png">
+    <frame number="0">
+      <point n="0" x="209" y="237"/>
+      <point n="1" x="163" y="101"/>
+    </frame>
+  </video>
+  <video name="ixfar/ixfar-f-*-0.png">
+    <frame number="0">
+      <point n="0" x="205" y="237"/>
+      <point n="1" x="152" y="121"/>
+    </frame>
+  </video>
+  <video name="bdown/bdown-d-*-0.png">
+    <frame number="0">
+      <point n="0" x="195" y="98"/>
+      <point n="1" x="140" y="98"/>
+    </frame>
+  </video>
+  <video name="go1__/go1__-d-*-0.png">
+    <frame number="0">
+      <point n="0" x="204" y="166"/>
+      <point n="1" x="142" y="123"/>
+    </frame>
+  </video>
+  <video name="ix2__/ix2__-c-*-0.png">
+    <frame number="0">
+      <point n="0" x="201" y="237"/>
+      <point n="1" x="164" y="157"/>
+    </frame>
+  </video>
+  <video name="futur/futur-i-*-0.png">
+    <frame number="0">
+      <point n="0" x="183" y="187"/>
+      <point n="1" x="143" y="89"/>
+    </frame>
+  </video>
+  <video name="bdown/bdown-b-*-0.png">
+    <frame number="0">
+      <point n="0" x="197" y="93"/>
+      <point n="1" x="143" y="89"/>
+    </frame>
+  </video>
+  <video name="1x1pi/1x1pi-e-*-0.png">
+    <frame number="0">
+      <point n="0" x="208" y="238"/>
+      <point n="1" x="171" y="147"/>
+    </frame>
+  </video>
+  <video name="buy__/buy__-i-*-0.png">
+    <frame number="0">
+      <point n="0" x="185" y="128"/>
+      <point n="1" x="151" y="109"/>
+    </frame>
+  </video>
+  <video name="buy__/buy__-r-*-0.png">
+    <frame number="0">
+      <point n="0" x="182" y="135"/>
+      <point n="1" x="157" y="100"/>
+    </frame>
+  </video>
+  <video name="corn_/corn_-a-*-0.png">
+    <frame number="0">
+      <point n="0" x="203" y="237"/>
+      <point n="1" x="147" y="90"/>
+    </frame>
+  </video>
+  <video name="buy__/buy__-q-*-0.png">
+    <frame number="0">
+      <point n="0" x="177" y="143"/>
+      <point n="1" x="152" y="113"/>
+    </frame>
+  </video>
+  <video name="what_/what_-e-*-0.png">
+    <frame number="0">
+      <point n="0" x="210" y="122"/>
+      <point n="1" x="113" y="80"/>
+    </frame>
+  </video>
+  <video name="what1/what1-a-*-0.png">
+    <frame number="0">
+      <point n="0" x="212" y="154"/>
+      <point n="1" x="141" y="123"/>
+    </frame>
+  </video>
+  <video name="love2/love2-c-*-0.png">
+    <frame number="0">
+      <point n="0" x="206" y="228"/>
+      <point n="1" x="172" y="169"/>
+    </frame>
+  </video>
+  <video name="can__/can__-p-*-0.png">
+    <frame number="0">
+      <point n="0" x="185" y="143"/>
+      <point n="1" x="133" y="106"/>
+    </frame>
+  </video>
+  <video name="finss/finss-b-*-0.png"/>
+  <video name="group/group-b-*-0.png">
+    <frame number="0">
+      <point n="0" x="185" y="133"/>
+      <point n="1" x="129" y="126"/>
+    </frame>
+  </video>
+  <video name="book1/book1-d-*-0.png">
+    <frame number="0">
+      <point n="0" x="171" y="113"/>
+      <point n="1" x="157" y="112"/>
+    </frame>
+  </video>
+  <video name="vtape/vtape-b-*-0.png">
+    <frame number="0">
+      <point n="0" x="193" y="162"/>
+      <point n="1" x="156" y="139"/>
+    </frame>
+  </video>
+  <video name="ix2__/ix2__-f-*-0.png">
+    <frame number="0">
+      <point n="0" x="204" y="237"/>
+      <point n="1" x="165" y="141"/>
+    </frame>
+  </video>
+  <video name="futur/futur-b-*-0.png">
+    <frame number="0">
+      <point n="0" x="181" y="204"/>
+      <point n="1" x="147" y="91"/>
+    </frame>
+  </video>
+  <video name="ix2__/ix2__-b-*-0.png">
+    <frame number="0">
+      <point n="0" x="143" y="181"/>
+      <point n="1" x="159" y="86"/>
+    </frame>
+  </video>
+  <video name="smone/smone-l-*-0.png">
+    <frame number="0">
+      <point n="0" x="211" y="237"/>
+      <point n="1" x="151" y="120"/>
+    </frame>
+  </video>
+  <video name="house/house-a-*-0.png">
+    <frame number="0">
+      <point n="0" x="183" y="115"/>
+      <point n="1" x="146" y="102"/>
+    </frame>
+  </video>
+  <video name="can__/can__-i-*-0.png">
+    <frame number="0">
+      <point n="0" x="176" y="146"/>
+      <point n="1" x="145" y="102"/>
+    </frame>
+  </video>
+  <video name="go3__/go3__-d-*-0.png">
+    <frame number="0">
+      <point n="0" x="194" y="119"/>
+      <point n="1" x="146" y="86"/>
+    </frame>
+  </video>
+  <video name="give_/give_-a-*-0.png">
+    <frame number="0">
+      <point n="0" x="167" y="136"/>
+      <point n="1" x="113" y="114"/>
+    </frame>
+  </video>
+  <video name="give4/give4-g-*-0.png">
+    <frame number="0">
+      <point n="0" x="184" y="202"/>
+      <point n="1" x="124" y="82"/>
+    </frame>
+  </video>
+  <video name="poss_/poss_-h-*-0.png">
+    <frame number="0">
+      <point n="0" x="202" y="239"/>
+      <point n="1" x="152" y="110"/>
+    </frame>
+  </video>
+  <video name="1x1pi/1x1pi-d-*-0.png">
+    <frame number="0">
+      <point n="0" x="182" y="188"/>
+      <point n="1" x="166" y="166"/>
+    </frame>
+  </video>
+  <video name="blame/blame-d-*-0.png">
+    <frame number="0">
+      <point n="0" x="228" y="211"/>
+      <point n="1" x="153" y="114"/>
+    </frame>
+  </video>
+  <video name="book2/book2-b-*-0.png">
+    <frame number="0">
+      <point n="0" x="201" y="156"/>
+      <point n="1" x="167" y="153"/>
+    </frame>
+  </video>
+  <video name="smone/smone-b-*-0.png">
+    <frame number="0">
+      <point n="0" x="163" y="151"/>
+      <point n="1" x="114" y="90"/>
+    </frame>
+  </video>
+  <video name="go___/go___-c-*-0.png">
+    <frame number="0">
+      <point n="0" x="219" y="196"/>
+      <point n="1" x="132" y="128"/>
+    </frame>
+  </video>
+  <video name="ix2__/ix2__-e-*-0.png">
+    <frame number="0">
+      <point n="0" x="204" y="237"/>
+      <point n="1" x="176" y="156"/>
+    </frame>
+  </video>
+  <video name="book_/book_-f-*-0.png">
+    <frame number="0">
+      <point n="0" x="192" y="125"/>
+      <point n="1" x="170" y="114"/>
+    </frame>
+  </video>
+  <video name="what3/what3-b-*-0.png">
+    <frame number="0">
+      <point n="0" x="236" y="183"/>
+      <point n="1" x="134" y="170"/>
+    </frame>
+  </video>
+  <video name="book3/book3-a-*-0.png">
+    <frame number="0">
+      <point n="0" x="197" y="147"/>
+      <point n="1" x="166" y="140"/>
+    </frame>
+  </video>
+  <video name="corn_/corn_-b-*-0.png">
+    <frame number="0">
+      <point n="0" x="208" y="237"/>
+      <point n="1" x="152" y="94"/>
+    </frame>
+  </video>
+  <video name="stndt/stndt-a-*-0.png">
+    <frame number="0">
+      <point n="0" x="176" y="97"/>
+      <point n="1" x="144" y="81"/>
+    </frame>
+  </video>
+  <video name="ix1__/ix1__-c-*-0.png">
+    <frame number="0">
+      <point n="0" x="207" y="235"/>
+      <point n="1" x="146" y="112"/>
+    </frame>
+  </video>
+  <video name="read_/read_-a-*-0.png">
+    <frame number="0">
+      <point n="0" x="203" y="120"/>
+      <point n="1" x="156" y="107"/>
+    </frame>
+  </video>
+  <video name="woman/woman-a-*-0.png">
+    <frame number="0">
+      <point n="0" x="221" y="148"/>
+      <point n="1" x="164" y="91"/>
+    </frame>
+  </video>
+  <video name="man__/man__-b-*-0.png">
+    <frame number="0">
+      <point n="0" x="183" y="201"/>
+      <point n="1" x="122" y="37"/>
+    </frame>
+  </video>
+  <video name="buy__/buy__-o-*-0.png">
+    <frame number="0">
+      <point n="0" x="169" y="153"/>
+      <point n="1" x="142" y="103"/>
+    </frame>
+  </video>
+  <video name="smone/smone-g-*-0.png">
+    <frame number="0">
+      <point n="0" x="204" y="237"/>
+      <point n="1" x="148" y="123"/>
+    </frame>
+  </video>
+  <video name="ariv2/ariv2-b-*-0.png">
+    <frame number="0">
+      <point n="0" x="221" y="203"/>
+      <point n="1" x="149" y="103"/>
+    </frame>
+  </video>
+  <video name="man__/man__-a-*-0.png">
+    <frame number="0">
+      <point n="0" x="181" y="203"/>
+      <point n="1" x="130" y="53"/>
+    </frame>
+  </video>
+  <video name="corn_/corn_-c-*-0.png">
+    <frame number="0">
+      <point n="0" x="207" y="239"/>
+      <point n="1" x="149" y="91"/>
+    </frame>
+  </video>
+  <video name="ariv1/ariv1-a-*-0.png">
+    <frame number="0">
+      <point n="0" x="166" y="193"/>
+      <point n="1" x="116" y="98"/>
+    </frame>
+  </video>
+  <video name="poss_/poss_-i-*-0.png">
+    <frame number="0">
+      <point n="0" x="151" y="179"/>
+      <point n="1" x="141" y="81"/>
+    </frame>
+  </video>
+  <video name="who__/who__-f-*-0.png">
+    <frame number="0">
+      <point n="0" x="162" y="177"/>
+      <point n="1" x="152" y="91"/>
+    </frame>
+  </video>
+  <video name="ix2__/ix2__-d-*-0.png">
+    <frame number="0">
+      <point n="0" x="201" y="236"/>
+      <point n="1" x="177" y="181"/>
+    </frame>
+  </video>
+  <video name="visi2/visi2-c-*-0.png">
+    <frame number="0">
+      <point n="0" x="187" y="155"/>
+      <point n="1" x="145" y="79"/>
+    </frame>
+  </video>
+  <video name="vgtbl/vgtbl-c-*-0.png">
+    <frame number="0">
+      <point n="0" x="209" y="240"/>
+      <point n="1" x="153" y="104"/>
+    </frame>
+  </video>
+  <video name="ystdy/stdy-e-*-0.png">
+    <frame number="0">
+      <point n="0" x="172" y="129"/>
+      <point n="1" x="133" y="79"/>
+    </frame>
+  </video>
+  <video name="vtape/vtape-a-*-0.png">
+    <frame number="0">
+      <point n="0" x="178" y="117"/>
+      <point n="1" x="143" y="97"/>
+    </frame>
+  </video>
+  <video name="like_/like_-d-*-0.png">
+    <frame number="0">
+      <point n="0" x="202" y="238"/>
+      <point n="1" x="172" y="123"/>
+    </frame>
+  </video>
+  <video name="have_/have_-c-*-0.png">
+    <frame number="0">
+      <point n="0" x="187" y="179"/>
+      <point n="1" x="134" y="146"/>
+    </frame>
+  </video>
+  <video name="ix4__/ix4__-d-*-0.png">
+    <frame number="0">
+      <point n="0" x="210" y="237"/>
+      <point n="1" x="153" y="155"/>
+    </frame>
+  </video>
+  <video name="futue/futue-a-*-0.png">
+    <frame number="0">
+      <point n="0" x="178" y="137"/>
+      <point n="1" x="126" y="106"/>
+    </frame>
+  </video>
+  <video name="love_/love_-g-*-0.png">
+    <frame number="0">
+      <point n="0" x="203" y="236"/>
+      <point n="1" x="172" y="131"/>
+    </frame>
+  </video>
+  <video name="visit/visit-a-*-0.png">
+    <frame number="0">
+      <point n="0" x="208" y="238"/>
+      <point n="1" x="145" y="86"/>
+    </frame>
+  </video>
+  <video name="car__/car__-a-*-0.png">
+    <frame number="0">
+      <point n="0" x="221" y="88"/>
+      <point n="1" x="139" y="84"/>
+    </frame>
+  </video>
+  <video name="who__/who__-d-*-0.png">
+    <frame number="0">
+      <point n="0" x="162" y="176"/>
+      <point n="1" x="157" y="84"/>
+    </frame>
+  </video>
+  <video name="what2/what2-c-*-0.png">
+    <frame number="0">
+      <point n="0" x="193" y="157"/>
+      <point n="1" x="137" y="96"/>
+    </frame>
+  </video>
+  <video name="hmwrk/hmwrk-a-*-0.png">
+    <frame number="0">
+      <point n="0" x="165" y="141"/>
+      <point n="1" x="143" y="82"/>
+    </frame>
+  </video>
+  <video name="ix2__/ix2__-h-*-0.png">
+    <frame number="0">
+      <point n="0" x="204" y="239"/>
+      <point n="1" x="168" y="116"/>
+    </frame>
+  </video>
+  <video name="ix1pi/ix1pi-c-*-0.png">
+    <frame number="0">
+      <point n="0" x="149" y="178"/>
+      <point n="1" x="168" y="142"/>
+    </frame>
+  </video>
+  <video name="book1/book1-c-*-0.png">
+    <frame number="0">
+      <point n="0" x="179" y="110"/>
+      <point n="1" x="160" y="104"/>
+    </frame>
+  </video>
+  <video name="who__/who__-b-*-0.png">
+    <frame number="0">
+      <point n="0" x="154" y="175"/>
+      <point n="1" x="161" y="108"/>
+    </frame>
+  </video>
+  <video name="buy__/buy__-l-*-0.png">
+    <frame number="0">
+      <point n="0" x="187" y="148"/>
+      <point n="1" x="154" y="106"/>
+    </frame>
+  </video>
+  <video name="ix3__/ix3__-c-*-0.png">
+    <frame number="0">
+      <point n="0" x="203" y="237"/>
+      <point n="1" x="176" y="138"/>
+    </frame>
+  </video>
+  <video name="toy__/toy__-b-*-0.png">
+    <frame number="0">
+      <point n="0" x="224" y="173"/>
+      <point n="1" x="141" y="125"/>
+    </frame>
+  </video>
+  <video name="leg__/leg__-a-*-0.png">
+    <frame number="0">
+      <point n="0" x="158" y="175"/>
+      <point n="1" x="125" y="77"/>
+    </frame>
+  </video>
+  <video name="buy2_/buy2_-e-*-0.png">
+    <frame number="0">
+      <point n="0" x="213" y="182"/>
+      <point n="1" x="167" y="140"/>
+    </frame>
+  </video>
+  <video name="ystdy/stdy-l-*-0.png">
+    <frame number="0">
+      <point n="0" x="163" y="177"/>
+      <point n="1" x="147" y="68"/>
+    </frame>
+  </video>
+  <video name="love2/love2-g-*-0.png">
+    <frame number="0">
+      <point n="0" x="189" y="230"/>
+      <point n="1" x="176" y="142"/>
+    </frame>
+  </video>
+  <video name="not__/not__-e-*-0.png">
+    <frame number="0">
+      <point n="0" x="158" y="180"/>
+      <point n="1" x="150" y="87"/>
+    </frame>
+  </video>
+  <video name="futu1/futu1-f-*-0.png">
+    <frame number="0">
+      <point n="0" x="165" y="138"/>
+      <point n="1" x="127" y="76"/>
+    </frame>
+  </video>
+  <video name="not__/not__-f-*-0.png">
+    <frame number="0">
+      <point n="0" x="155" y="178"/>
+      <point n="1" x="134" y="73"/>
+    </frame>
+  </video>
+  <video name="can__/can__-d-*-0.png">
+    <frame number="0">
+      <point n="0" x="202" y="183"/>
+      <point n="1" x="135" y="120"/>
+    </frame>
+  </video>
+  <video name="ix1__/ix1__-k-*-0.png">
+    <frame number="0">
+      <point n="0" x="164" y="179"/>
+      <point n="1" x="150" y="93"/>
+    </frame>
+  </video>
+  <video name="futur/futur-h-*-0.png">
+    <frame number="0">
+      <point n="0" x="187" y="201"/>
+      <point n="1" x="145" y="82"/>
+    </frame>
+  </video>
+  <video name="ystdy/stdy-d-*-0.png">
+    <frame number="0">
+      <point n="0" x="236" y="162"/>
+      <point n="1" x="147" y="96"/>
+    </frame>
+  </video>
+  <video name="shoud/shoud-b-*-0.png">
+    <frame number="0">
+      <point n="0" x="185" y="203"/>
+      <point n="1" x="153" y="95"/>
+    </frame>
+  </video>
+  <video name="what3/what3-d-*-0.png">
+    <frame number="0">
+      <point n="0" x="237" y="199"/>
+      <point n="1" x="140" y="133"/>
+    </frame>
+  </video>
+  <video name="ariv4/ariv4-d-*-0.png">
+    <frame number="0">
+      <point n="0" x="184" y="142"/>
+      <point n="1" x="145" y="92"/>
+    </frame>
+  </video>
+  <video name="know_/know_-a-*-0.png">
+    <frame number="0">
+      <point n="0" x="205" y="238"/>
+      <point n="1" x="134" y="86"/>
+    </frame>
+  </video>
+  <video name="candy/candy-a-*-0.png">
+    <frame number="0">
+      <point n="0" x="209" y="237"/>
+      <point n="1" x="145" y="125"/>
+    </frame>
+  </video>
+  <video name="what_/what_-i-*-0.png">
+    <frame number="0">
+      <point n="0" x="178" y="162"/>
+      <point n="1" x="137" y="130"/>
+    </frame>
+  </video>
+  <video name="go___/go___-d-*-0.png">
+    <frame number="0">
+      <point n="0" x="191" y="143"/>
+      <point n="1" x="136" y="93"/>
+    </frame>
+  </video>
+  <video name="like_/like_-f-*-0.png">
+    <frame number="0">
+      <point n="0" x="173" y="171"/>
+      <point n="1" x="144" y="103"/>
+    </frame>
+  </video>
+  <video name="prefr/prefr-e-*-0.png">
+    <frame number="0">
+      <point n="0" x="202" y="238"/>
+      <point n="1" x="149" y="98"/>
+    </frame>
+  </video>
+  <video name="new__/new__-g-*-0.png">
+    <frame number="0">
+      <point n="0" x="210" y="131"/>
+      <point n="1" x="155" y="116"/>
+    </frame>
+  </video>
+  <video name="shud2/shud2-c-*-0.png">
+    <frame number="0">
+      <point n="0" x="154" y="178"/>
+      <point n="1" x="140" y="78"/>
+    </frame>
+  </video>
+  <video name="book_/book_-b-*-0.png">
+    <frame number="0">
+      <point n="0" x="183" y="111"/>
+      <point n="1" x="164" y="106"/>
+    </frame>
+  </video>
+  <video name="ariv3/ariv3-b-*-0.png">
+    <frame number="0">
+      <point n="0" x="158" y="166"/>
+      <point n="1" x="145" y="101"/>
+    </frame>
+  </video>
+  <video name="pepol/pepol-c-*-0.png">
+    <frame number="0">
+      <point n="0" x="229" y="147"/>
+      <point n="1" x="145" y="118"/>
+    </frame>
+  </video>
+  <video name="visi1/visi1-a-*-0.png">
+    <frame number="0">
+      <point n="0" x="207" y="236"/>
+      <point n="1" x="157" y="108"/>
+    </frame>
+  </video>
+  <video name="go___/go___-h-*-0.png">
+    <frame number="0">
+      <point n="0" x="212" y="235"/>
+      <point n="1" x="143" y="97"/>
+    </frame>
+  </video>
+  <video name="give1/give1-c-*-0.png">
+    <frame number="0">
+      <point n="0" x="206" y="239"/>
+      <point n="1" x="151" y="102"/>
+    </frame>
+  </video>
+  <video name="car__/car__-i-*-0.png">
+    <frame number="0">
+      <point n="0" x="193" y="99"/>
+      <point n="1" x="136" y="80"/>
+    </frame>
+  </video>
+  <video name="buy2_/buy2_-d-*-0.png">
+    <frame number="0">
+      <point n="0" x="204" y="188"/>
+      <point n="1" x="164" y="140"/>
+    </frame>
+  </video>
+  <video name="love_/love_-e-*-0.png">
+    <frame number="0">
+      <point n="0" x="168" y="164"/>
+      <point n="1" x="139" y="93"/>
+    </frame>
+  </video>
+  <video name="buy__/buy__-f-*-0.png">
+    <frame number="0">
+      <point n="0" x="163" y="145"/>
+      <point n="1" x="147" y="103"/>
+    </frame>
+  </video>
+  <video name="movie/movie-b-*-0.png">
+    <frame number="0">
+      <point n="0" x="195" y="110"/>
+      <point n="1" x="165" y="90"/>
+    </frame>
+  </video>
+  <video name="buy__/buy__-e-*-0.png">
+    <frame number="0">
+      <point n="0" x="169" y="164"/>
+      <point n="1" x="152" y="103"/>
+    </frame>
+  </video>
+  <video name="read_/read_-b-*-0.png">
+    <frame number="0">
+      <point n="0" x="193" y="106"/>
+      <point n="1" x="158" y="105"/>
+    </frame>
+  </video>
+  <video name="can__/can__-e-*-0.png">
+    <frame number="0">
+      <point n="0" x="218" y="199"/>
+      <point n="1" x="143" y="145"/>
+    </frame>
+  </video>
+  <video name="poss_/poss_-d-*-0.png">
+    <frame number="0">
+      <point n="0" x="149" y="179"/>
+      <point n="1" x="134" y="99"/>
+    </frame>
+  </video>
+  <video name="what3/what3-g-*-0.png">
+    <frame number="0">
+      <point n="0" x="225" y="167"/>
+      <point n="1" x="135" y="161"/>
+    </frame>
+  </video>
+  <video name="ixfar/ixfar-c-*-0.png">
+    <frame number="0">
+      <point n="0" x="204" y="238"/>
+      <point n="1" x="135" y="72"/>
+    </frame>
+  </video>
+</points>
